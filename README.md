@@ -60,7 +60,7 @@ This repository contains the complete coursework for the Multi-Agent Reinforceme
   - Learning rate: 0.1
   - Discount factor: 0.99
   - Episodes: 999
-- **Results**: Converges to optimal policy with reward ~159.56
+- **Results**: Converges to optimal policy with reward ~159.56 which is very less compared to the theoretical maximum possible value of approx ~350 
 - **Performance**: Consistent positive rewards after episode 600
 
 ---
@@ -172,3 +172,4 @@ This repository contains the complete coursework for the Multi-Agent Reinforceme
 - Results may vary due to the stochastic nature of some algorithms
 
 ---
+
