@@ -1,7 +1,7 @@
 # Multi-Agent Grid Coverage 
 
 ## Project Overview
-This project explores a **multi-agent reinforcement learning framework** to enable autonomous agents to collaboratively explore and completely cover a 10x10 grid. The agents operate in a dynamic environment with or without obstacles, aiming to visit every cell on the grid exactly once while optimizing their behavior using **Q-Learning**.
+This is a self-project that explores a **multi-agent reinforcement learning framework** to enable autonomous agents to collaboratively explore and completely cover a 10x10 grid. The agents operate in a dynamic environment with or without obstacles, aiming to visit every cell on the grid exactly once while optimizing their behavior using **Q-Learning**.
 
 ---
 
